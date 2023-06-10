@@ -4,7 +4,9 @@
 - 📫 You can reach me via : 
 - Email : mahdichavoshi14@gmail.com
 - Telegram : https://t.me/@mahdi_turrkk
-- linkedin : Mahdi Chavoshi
+- linkedin : mahdi-chavoshi-2178ba200
+- 🌐 You can see my resume at:
+- www.mahdichavoshi.ir
 
 <!---
 mahdi-turrkk/mahdi-turrkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
