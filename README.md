@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Chavoshi</h1>
 <h3 align="center">A frontend developer from Tabriz,Iran.</h3>
 
-- 🌱 I’m currently learning **node.js,express.js**
+- 🌱 I’m currently learning **Tailwind css**
 
 - 👨‍💻 All of my projects are available at [mahdichavoshi.ir](http://mahdichavoshi.ir)
 
