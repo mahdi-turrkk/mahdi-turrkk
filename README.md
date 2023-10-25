@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at [mahdichavoshi.ir](https://mahdichavoshi.ir)<br><br>💬 Ask me about Frontend Development<br><br>📫 How to reach me mahdichavoshi14@gmail.com<br><br>📄 Know about my experiences [mahdichavoshi.ir](mahdichavoshi.ir)
+🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at [mahdichavoshi.ir](https://mahdichavoshi.ir)<br><br>💬 Ask me about Frontend Development<br><br>📫 How to reach me mahdichavoshi14@gmail.com<br><br>📄 Know about my experiences [mahdichavoshi.ir](https://mahdichavoshi.ir)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi_turrkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-chavoshi-2178ba200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahdi_turrkk) 
